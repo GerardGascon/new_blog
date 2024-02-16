@@ -1,7 +1,7 @@
 ---
 title: Una paseada por el fracaso
 author: Geri
-date: "2023-02-21"
+date: "2024-02-21"
 image: /assets/img/covers/una-paseada-por-el-fracaso.png
 categories: [Blogging, Personal Notes]
 tags: [abandoned, projects]
