@@ -1,7 +1,7 @@
 ---
 title: Una paseada por el fracaso
 author: Geri
-date: "2024-02-21"
+date: "2023-02-21"
 image: /assets/img/covers/una-paseada-por-el-fracaso.png
 categories: [Blogging, Personal Notes]
 tags: [abandoned, projects]
@@ -13,7 +13,7 @@ Justo por ese momento, me llegó un correo de que el Twitter Archive que había 
 
 Sorprendentemente, en vez de hacerme sentir peor, mirar esos clips me hizo sentir mejor. No me puse a pensar en el dolor del abandono del proyecto, más bien me ponía a pensar en todo lo que trabajar en él me había aportado a mí.
 
-Es por eso, que en noviembre decidí dar una mini charla en el [Barcelona Game Creators](https://www.meetup.com/barcelona-game-creators/) para hablar de todos estos proyectos, pero (casualmente) fracasé en prepararla. Y no ha sido hasta este febrero que no he vuelto a encontrar el tiempo para hacerla.
+Es por eso, que en noviembre decidí dar una mini charla en el [Barcelona Game Creators](https://www.meetup.com/barcelona-game-creators/){:target="_blank"} para hablar de todos estos proyectos, pero (casualmente) fracasé en prepararla. Y no ha sido hasta este febrero que no he vuelto a encontrar el tiempo para hacerla.
 
 Pues lo dicho, todo lo que hay en este post son aquellos juegos y proyectos que no aparecen en mi porfolio (y tengo material suyo), todo aquello que en algún momento existió y en otro momento desapareció, procedo a empezar esta paseada por el fracaso.
 
@@ -27,7 +27,7 @@ Hasta donde yo recuerdo, esto era más o menos una especie de Super Smash Bros, 
 
 ## Plataformero en 3D
 
-Poco tiempo después de abandonar el juego de las pelotas, participé a la [Wowie Jam!](https://itch.io/jam/wowie-jam), donde me hizo subir la moral por las nubes y me hizo creer que ya era profesional (ni siquiera ahora me considero uno).
+Poco tiempo después de abandonar el juego de las pelotas, participé a la [Wowie Jam!](https://itch.io/jam/wowie-jam){:target="_blank"}, donde me hizo subir la moral por las nubes y me hizo creer que ya era profesional (ni siquiera ahora me considero uno).
 
 Todo esto, me llevó a hacer un plataformero 3D ampliamente inspirado por el Super Mario 3D Land, uno de los primeros videojuegos a los que jugué.
 
@@ -101,7 +101,7 @@ Seguí guardando la carpeta del proyecto de todas formas, con la esperanza de qu
 
 ## Secret Santa Jam
 
-Por la Navidad de 2020, me apunté a la [Secret Santa Jam](https://itch.io/jam/secret-santa), una jam donde en vez de haber un tema, tú recibes una carta para “Papá Noel” y entonces tú tienes que hacerte pasar por él y crear un juego acorde con esa carta para que luego el día de Navidad le llegue este regalo.
+Por la Navidad de 2020, me apunté a la [Secret Santa Jam](https://itch.io/jam/secret-santa){:target="_blank"}, una jam donde en vez de haber un tema, tú recibes una carta para “Papá Noel” y entonces tú tienes que hacerte pasar por él y crear un juego acorde con esa carta para que luego el día de Navidad le llegue este regalo.
 
 Pues mi scope para esta jam desde un buen inicio se fue más allá de las nubes y volví con un plataformero 3D con todo lo que había aprendido hasta el momento.
 
@@ -135,7 +135,7 @@ Pero bueno, aprendí un montón de cosas nuevas. Algo que agradezco un montón d
 
 ## El juego de las letras
 
-Pasado el deadline de la jam, me propuse para animarme hacer un juego pequeñito para mí mismo, igual que hice con la [Brackeys Jam](https://gerardgascon.com/jams/Chess-II-Counterattack), este juego la idea era volver a hacer todos los assets yo solo. Y conseguí un resultado bastante guay.
+Pasado el deadline de la jam, me propuse para animarme hacer un juego pequeñito para mí mismo, igual que hice con la [Brackeys Jam](https://gerardgascon.com/jams/Chess-II-Counterattack){:target="_blank"}, este juego la idea era volver a hacer todos los assets yo solo. Y conseguí un resultado bastante guay.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="characters" %}
 
@@ -203,7 +203,7 @@ Otra jam anecdótica más.
 
 ## Miner Mole
 
-En el bachillerato de Cataluña hay un trabajo que se llama *treball de recerca* dónde hay que hacer una investigación sobre el tema que te apetezca, en mi caso decidí desarrollar un juego para la Sega Mega Drive usando [SGDK](https://github.com/Stephane-D/SGDK).
+En el bachillerato de Cataluña hay un trabajo que se llama *treball de recerca* dónde hay que hacer una investigación sobre el tema que te apetezca, en mi caso decidí desarrollar un juego para la Sega Mega Drive usando [SGDK](https://github.com/Stephane-D/SGDK){:target="_blank"}.
 
 Pues todo empieza cuando un buen día, mientras estaba comiendo en casa de los abuelos, vi que había una caja con la imagen del Sonic clásico, cuándo les pregunté que era eso me respondieron que era una consola, como si todo el mundo lo supiera y la iban a tirar porque nadie la usaba. Obviamente, no tenía ni idea que me habían estado escondiendo una consola y me apoderé de ella, entonces de aquí surgió la idea de trastear con ella (Y dedicarle unas horas al Sonic The Hedgehog y al Streets of Rage).
 
@@ -245,11 +245,11 @@ Como curiosidad que se ve en este vídeo, la flechita de la izquierda es el cons
 
 Y aquí el juego ya empezaba a tener su estructura montada, con la carga y descarga de los niveles (con memory leaks incluidos, claro).
 
-Fue más o menos por este momento que se abrió la convocatoria del [IndieDevDay](https://www.indiedevday.es/) 2021 y como todo desarrollador, decidí intentar preparar algo y mandar el juego, el problema es que casi todo lo que usaba eran prototipos y el personaje aún no estaba dibujado, por lo que obviamente rechazaron mi juego y no pude exponerlo. Pero bueno, el desarrollo siguió hacia adelante y a finales de agosto, principios de septiembre, tenía esto:
+Fue más o menos por este momento que se abrió la convocatoria del [IndieDevDay](https://www.indiedevday.es/){:target="_blank"} 2021 y como todo desarrollador, decidí intentar preparar algo y mandar el juego, el problema es que casi todo lo que usaba eran prototipos y el personaje aún no estaba dibujado, por lo que obviamente rechazaron mi juego y no pude exponerlo. Pero bueno, el desarrollo siguió hacia adelante y a finales de agosto, principios de septiembre, tenía esto:
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="1431677996637822977-L51IebWD2vqL9fcg" %}
 
-Aquí ya estaba el famoso topo, comisionado a [FJLink](https://twitter.com/pipasdefranilla), ahora sí que ya molaba mucho el juego. Pero también fue por entonces que volvieron las clases, tuve que empezar la redacción del trabajo y el desarrollo empezó a ralentizarse.
+Aquí ya estaba el famoso topo, comisionado a [FJLink](https://twitter.com/pipasdefranilla){:target="_blank"}, ahora sí que ya molaba mucho el juego. Pero también fue por entonces que volvieron las clases, tuve que empezar la redacción del trabajo y el desarrollo empezó a ralentizarse.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="1447641273867902981-pmYpyLcEQ-w5halW" %}
 
@@ -261,13 +261,13 @@ Le estuve añadiendo nuevos niveles, donde intentaba en cada uno de ellos meterl
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="1507375317551398920-o5HoIs3r6xGh_P_m" %}
 
-Ya sea por bueno o por malo, a mí me gusta sacar las cosas con un lacito bien bonito y poder decir orgullosamente que yo he trabajado en eso, aunque a veces me he arrepentido de trabajar en algunos juegos (entonces los [escondo](https://itch.io/c/1557951/other-other-game-jams)).
+Ya sea por bueno o por malo, a mí me gusta sacar las cosas con un lacito bien bonito y poder decir orgullosamente que yo he trabajado en eso, aunque a veces me he arrepentido de trabajar en algunos juegos (entonces los [escondo](https://itch.io/c/1557951/other-other-game-jams){:target="_blank"}).
 
 En este caso, le había dedicado un esfuerzo como el que nunca antes había hecho y no veía ninguna forma posible de lanzar este juego, que tenía la idea que fuera gratis, sin ese lacito tan bonito.
 
 Es por eso que nunca lo llegué a lanzar, aunque tenga 4 niveles creados con sus enemigos y tal, no tiene ese lacito que hace que el juego esté cerrado, tal y como está ahora simplemente termina porque no hay más contenido.
 
-De hecho, durante la [IndieSpainJam 2023](https://itch.io/jam/indie-spain-jam-23), me animé a empezar a hacer streams en Twitch. Una vez terminada la jam, me propuse dedicarle el directo semanal a avanzar en un proyecto abandonado, como lo es este mismo.
+De hecho, durante la [IndieSpainJam 2023](https://itch.io/jam/indie-spain-jam-23){:target="_blank"}, me animé a empezar a hacer streams en Twitch. Una vez terminada la jam, me propuse dedicarle el directo semanal a avanzar en un proyecto abandonado, como lo es este mismo.
 
 ![Untitled.png](/assets/img/personal/una-paseada-por-el-fracaso/Untitled.png)
 

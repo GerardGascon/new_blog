@@ -31,7 +31,7 @@ Just note that it has to be a **Sprite Unlit Shader Graph**.
 
 ### Noise Generator
 
-The noise generator is a simple function based on 2 sine waves combined, similar to [this one](https://www.wolframalpha.com/input?i=plot+%7By%3D-cos%28t%29%2Bt%2Cx%3Dcos%28t%29%2Bt%7D+from+-12+to+12). By doing this, we get a more natural look offset function.
+The noise generator is a simple function based on 2 sine waves combined, similar to [this one](https://www.wolframalpha.com/input?i=plot+%7By%3D-cos%28t%29%2Bt%2Cx%3Dcos%28t%29%2Bt%7D+from+-12+to+12){:target="_blank"}. By doing this, we get a more natural look offset function.
 
 ![Desktop View](/assets/img/tutorials/adding-texture-to-2d-lights/Untitled%202.png){: .center }
 

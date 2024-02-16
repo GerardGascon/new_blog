@@ -14,7 +14,7 @@ I am developing a game, and recently it required to have silhouettes for when th
 
 ## Setup
 
-Before starting with the silhouette, we need a basic sprite sorting system, we could use a [SortingGroup](https://docs.unity3d.com/Manual/class-SortingGroup.html) along with the Transparency Sort Mode. While experimenting with this, I stumbled across some problems with the masking and ended up creating my own sorting based on the default **Order In Layer**.
+Before starting with the silhouette, we need a basic sprite sorting system, we could use a [SortingGroup](https://docs.unity3d.com/Manual/class-SortingGroup.html){:target="_blank"} along with the Transparency Sort Mode. While experimenting with this, I stumbled across some problems with the masking and ended up creating my own sorting based on the default **Order In Layer**.
 
 To make this, I use the y position of the sprite as a reference to change the Order In Layer:
 
