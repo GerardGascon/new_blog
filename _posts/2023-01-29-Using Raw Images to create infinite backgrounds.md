@@ -6,8 +6,8 @@ ShowCanonicalLink: true
 canonicalURL: https://gerardgascon.medium.com/draw-a-2d-silhouette-in-unity-1918a9fbd4d1
 
 image: /assets/img/covers/raw-image-background.png
-categories: ["Tutorial"]
-tags: ["unity", "shaders"]
+categories: [Tutorials]
+tags: [unity, shaders]
 ---
 
 Creating a game with a large background can cause some large messes like this one:

@@ -4,8 +4,8 @@ draft: false
 title: Draw a 2D silhouette in Unity
 
 image: /assets/img/covers/draw-2d-silhouette.png
-categories: ["Tutorial"]
-tags: ["unity", "shaders"]
+categories: [Tutorials]
+tags: [unity, shaders]
 ---
 
 I am developing a game, and recently it required to have silhouettes for when the player is behind an obstacle. To my surprise, I found no tutorials covering this at all. Even though there exist some, they only cover a small part of what any top-down 2D game would need. So after some trial and error I found a way, with some room for improvement, that solves those cases found in other tutorials.

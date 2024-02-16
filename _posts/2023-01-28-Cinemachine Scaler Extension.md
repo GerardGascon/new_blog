@@ -4,8 +4,8 @@ draft: false
 title: Cinemachine Scaler Extension
 
 image: /assets/img/covers/cinemachine-scaler.png
-categories: ["Tutorial"]
-tags: ["unity", "cinemachine"]
+categories: [Tutorials]
+tags: [unity, cinemachine]
 ---
 
 Today, I’ve developed another basic tool that could be useful to someone else. It is called the Cinemachine Scaler, an extension that changes the orthographic size to avoid hiding important sprites with the UI.
@@ -119,7 +119,7 @@ After that, we can go to the editor and under the **Extensions section** we ca
 ![Desktop View](/assets/img/tutorials/cinemachine-scaler/Untitled%201.png){: .center }
 _Before the Cinemachine Scaler_
 
-I hope that this simple tutorial helps you solve a small detail in your project and makes it feel a bit more polished.
-
 ![Desktop View](/assets/img/tutorials/cinemachine-scaler/Untitled%202.png){: .center }
 _After the Cinemachine Scaler_
+
+I hope that this simple tutorial helps you solve a small detail in your project and makes it feel a bit more polished.
