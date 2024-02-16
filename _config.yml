@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: GerardGascon/new_blog
+    repo: GerardGascon/blog
     repo_id: R_kgDOLTXL2g
     category: General
     category_id: DIC_kwDOLTXL2s4CdRlJ
