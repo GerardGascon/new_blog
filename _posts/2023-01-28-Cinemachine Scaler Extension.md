@@ -1,8 +1,6 @@
 ---
-date: "2023-01-28"
-draft: false
 title: Cinemachine Scaler Extension
-
+date: "2023-01-28"
 image: /assets/img/covers/cinemachine-scaler.png
 categories: [Tutorials]
 tags: [unity, cinemachine]

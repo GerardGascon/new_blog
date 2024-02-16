@@ -1,10 +1,6 @@
 ---
-date: "2023-01-29"
-draft: false
 title: Using Raw Images to create infinite backgrounds
-ShowCanonicalLink: true
-canonicalURL: https://gerardgascon.medium.com/draw-a-2d-silhouette-in-unity-1918a9fbd4d1
-
+date: "2023-01-29"
 image: /assets/img/covers/raw-image-background.png
 categories: [Tutorials]
 tags: [unity, shaders]
