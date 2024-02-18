@@ -201,7 +201,7 @@ Pero un bullet hell es sinónimo de caos, así que le añadí un *poquito* de ca
 
 Y finalmente el juego terminó viéndose así.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="chaotic_shooter_3" %}
+![chaotic_shooter](/assets/img/personal/una-paseada-por-el-fracaso/chaotic_shooter_3.jpg){: .center }
 
 En este punto vi que el juego tampoco me motivaba tanto y rápidamente lo abandoné, la idea parecía interesante, pero ejecutarla bien ya era otra historia, así que se quedó con una anécdota curiosa de mis jams.
 
