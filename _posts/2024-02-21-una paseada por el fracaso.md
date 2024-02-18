@@ -324,9 +324,9 @@ Pero luego ocurrieron un montón de cosas que me llevaron a lo que he contado al
 
 ## Una consola no tan fantástica
 
-Las consolas fantásticas ([*fantasy consoles*](https://en.wikipedia.org/wiki/Fantasy_video_game_console)), son un tema que me fascina. Me encanta que existan sistemas como PICO-8 u [otros](https://github.com/paladin-t/fantasy), con unas limitaciones propias que simplemente existen porque a los desarrolladores les apetece.
+Las consolas fantásticas ([*fantasy consoles*](https://en.wikipedia.org/wiki/Fantasy_video_game_console){:target="_blank"}), son un tema que me fascina. Me encanta que existan sistemas como PICO-8 u [otros](https://github.com/paladin-t/fantasy){:target="_blank"}, con unas limitaciones propias que simplemente existen porque a los desarrolladores les apetece.
 
-Toda la comunidad que las rodea me parece fascinante y, aunque nunca me he metido en ella, siempre ha sido un tema con el que he querido trastear. Pues un buen día me levanté inspirado por un maravilloso vídeo de [Ben Eater](https://youtu.be/l7rce6IQDWs), en este vídeo, él hablaba de como montar una tarjeta gráfica que funcionaba en unas breadboards.
+Toda la comunidad que las rodea me parece fascinante y, aunque nunca me he metido en ella, siempre ha sido un tema con el que he querido trastear. Pues un buen día me levanté inspirado por un maravilloso vídeo de [Ben Eater](https://youtu.be/l7rce6IQDWs){:target="_blank"}, en este vídeo, él hablaba de como montar una tarjeta gráfica que funcionaba en unas breadboards.
 
 A mí me entraron muchísimas ganas de hacer una yo, diseñar una tarjeta gráfica ampliamente inspirada por su diseño. En esta modificación mía, le aumentaba un poco la resolución y hacía que fuera de 1-bit, reduciendo su tamaño de la memoria a solo 4 kB.
 
@@ -336,7 +336,7 @@ _La gráfica renderizando la RAM sin inicializar_
 ![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_1.jpg){: .center }
 _Render de prueba en la tarjeta gráfica_
 
-Pero todo esto no se iba a quedar aquí, la idea era hacer un sistema modular, tipo el [RC2014](https://rc2014.co.uk/) y que cada módulo fuese testeable individualmente con un Arduino. Algo que sonaba espectacular en mi cabeza.
+Pero todo esto no se iba a quedar aquí, la idea era hacer un sistema modular, tipo el [RC2014](https://rc2014.co.uk/){:target="_blank"} y que cada módulo fuese testeable individualmente con un Arduino. Algo que sonaba espectacular en mi cabeza.
 
 ![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_2.png){: .center }
 _Visualización 3D de la PCB diseñada de la tarjeta gráfica_
