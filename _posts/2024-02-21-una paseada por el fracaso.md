@@ -40,7 +40,7 @@ Al cabo de poco, me puse de nuevo al lío, esta vez con un bullet hell en 2D. Do
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="bullet_hell_1" %}
 
-De este juego me acuerdo de varias cosas graciosas, una de ellas es que no sabía como limitar la velocidad de disparos, por lo que se me ocurrió meter una cadencia suficientemente exagerada como para que al jugador le mereciera más la pena mantener pulsado que pulsar muchas veces. Aunque sí que es verdad que posteriormente lo trasladé a móvil.
+De este juego me acuerdo de varias cosas graciosas, una de ellas es que no sabía como limitar la velocidad de disparos, por lo que se me ocurrió meter una cadencia suficientemente exagerada como para que al jugador le mereciera más la pena mantener pulsado que pulsar muchas veces. Aunque sí que es verdad que posteriormente lo trasladé a móvil y este ahí no podías pulsar individualmente cada disparo.
 
 Una cosa que aprendí aquí que realmente aprecio mucho de este desarrollo es el object pooling. Durante el desarrollo del juego me encontré que eventualmente acababas llegando a un punto donde el lag hacía imposible jugar, por lo que investigando por qué era me enteré de que era culpa de instanciar muchas cosas y que el object pooling era la solución. Gracias a esto ya empecé a salir cada vez más de mi zona de confort en busca de nuevas formas de programar las cosas y hacerlo mejor.
 
@@ -106,7 +106,7 @@ Hacia finales de 2020 empecé a darle vueltas a la idea de hacer una versión de
 
 La idea no salía como yo me imaginaba en mi cabeza. Quería que fuese algo divertido, pero en vez de eso, era bastante aburrido sinceramente.
 
-Aun así, un tiempo más tarde lo volví a intentar. Esta vez me inspiré por el estilo de Manifold Garden para hacer que fuese un arte asequible para mí y que a la vez pegase un poco con la estética de exposición.
+Aun así, un tiempo más tarde lo volví a intentar. Esta vez me inspiré por el estilo de Manifold Garden, para hacer que fuese un arte asequible para mí y que a la vez pegase un poco con la estética de exposición.
 
 ![Portfolio](/assets/img/personal/una-paseada-por-el-fracaso/portfolio_2.jpg){: .center }
 
@@ -114,7 +114,7 @@ Pero esto no impidió que me aburriese de nuevo y el proyecto se quedase complet
 
 ## Secret Santa Jam
 
-Por la Navidad de 2020, me apunté a la [Secret Santa Jam](https://itch.io/jam/secret-santa){:target="_blank"}, una jam donde en vez de haber un tema, tú recibes una carta para “Papá Noel” y entonces tú tienes que hacerte pasar por él y crear un juego acorde con esa carta para que luego el día de Navidad le llegue este regalo.
+Por la Navidad de 2020, me apunté a la [Secret Santa Jam](https://itch.io/jam/secret-santa){:target="_blank"}, una jam donde en vez de haber un tema, tú recibes una carta que supuestamente iba dirigida a “Papá Noel” y entonces tú tienes que hacerte pasar por él y crear un juego acorde con esa carta para que luego el día de Navidad le llegue este regalo.
 
 Pues mi scope para esta jam desde un buen inicio se fue más allá de las nubes y volví con un plataformero 3D con todo lo que había aprendido hasta el momento.
 
@@ -128,7 +128,7 @@ Estuve siendo inspirado por el Super Mario Odyssey y toda la expresividad que es
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_3" %}
 
-Y una vez con las mecánicas hechas me puse a avanzar con las animaciones, las cuales le dieron mucha más vida.
+Y una vez con las mecánicas hechas, me puse a avanzar con las animaciones, las cuales le dieron mucha más vida.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_4" %}
 
@@ -140,19 +140,19 @@ Finalmente, me puse con el diseño de niveles para el juego con un montón de as
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_6" %}
 
-Pero desgraciadamente el diseño de niveles es de mis puntos más débiles, siempre me quedo atascado cuando toca hacerlo. Así como con el arte y la música puedo llegar a hacer un apaño, pero el diseño de niveles me drena la energía de una forma espectacular.
+Pero desgraciadamente el diseño de niveles es de mis puntos más débiles, siempre me quedo atascado cuando toca hacerlo. Así como con el arte y la música puedo llegar a hacer un apaño, el diseño de niveles me drena la energía de una forma espectacular.
 
 Así que este juego también lo abandoné. Pero a diferencia de otros, donde el único afectado era yo, este juego iba dirigido a otra persona y solo con pensar en que una persona iba a quedarse sin su regalo de Navidad, me dolía el alma.
 
-Pero bueno, aprendí un montón de cosas nuevas. Algo que agradezco un montón de lo que hice en la jam, es la cantidad de experimentos con herramientas que hice.
+Pero bueno, aprendí un montón de cosas nuevas. Algo que agradezco  mucho de lo que hice en la jam, es la cantidad de experimentos con herramientas que hice.
 
 ## El juego de las letras
 
-Pasado el deadline de la jam, me propuse para animarme hacer un juego pequeñito para mí mismo, igual que hice con la [Brackeys Jam](https://gerardgascon.com/jams/Chess-II-Counterattack){:target="_blank"}, este juego la idea era volver a hacer todos los assets yo solo. Y conseguí un resultado bastante guay.
+Pasado el deadline de la jam, para animarme, me propuse hacer un juego pequeñito para mí mismo, igual que hice con la [Brackeys Jam](https://gerardgascon.com/jams/Chess-II-Counterattack){:target="_blank"}, la idea de este juego era volver a hacer todos los assets yo solo. Y conseguí un resultado bastante guay.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="abc_1" %}
 
-Se supone que tenía que terminarlo para año nuevo, pero me volví a atascar en el diseño de niveles y lo abandoné, un año más tarde lo intenté retomar, le hice un par de niveles nuevos y me volví a atascar.
+Me lo planteé como si fuera una jam, y se supone que tenía que terminarlo para año nuevo, pero me volví a atascar en el diseño de niveles y lo abandoné. Un año más tarde lo intenté retomar, le hice un par de niveles nuevos y me volví a atascar.
 
 El año pasado finalmente me puse “en serio” y lo intenté terminar, le retoqué algunos niveles, le metí nuevas mecánicas y el juego se quedó tal que así.
 
@@ -164,13 +164,13 @@ Desgraciadamente, me vino un volumen bastante grande de tareas que hacer y tuve 
 
 ## RetroJam 2021
 
-El año 2021 fue marcado por la Mega Drive, mientras estaba aprendiendo como programar para ella, decidí apuntarme a la retro jam, ya que consideraba que era un buen sitio donde practicar como funcionaba la consola.
+El año 2021 fue marcado por la Mega Drive. Mientras estaba aprendiendo como programar para ella, decidí apuntarme a la retro jam, ya que consideraba que era un buen sitio donde practicar como funcionaba la consola.
 
 Así que me puse a ello y empecé a hacer un roguelike tipo Binding of Isaac, pero con movimiento por cuadrícula.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_1" %}
 
-Luego de esto me puse a hacer la generación de las salas en sí, la cual sería bastante sencilla de hacer en un motor de videojuegos actual, pero la falta de experiencia trabajando con C, hizo que me liase.
+Luego de esto me puse a hacer la generación de las salas, la cual sería bastante sencilla de hacer en un motor de videojuegos actual, pero la falta de experiencia trabajando con C, hizo que me liase.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_2" %}
 
@@ -191,7 +191,7 @@ Pero desgraciadamente no sirvió de nada, ya que se acabó el tiempo y todo mi t
 
 Al cabo de un tiempo, me apunté a otra jam, aquí tenías que hacer un bullet hell. A mí se me ocurrió la idea de hacer un bullet hell sin enemigos, donde “luchas contra ti mismo”.
 
-La idea estaba graciosa así, que me puse a prototipar con ella.
+La idea estaba graciosa, así que me puse a prototipar con ella.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="chaotic_shooter_1" %}
 
@@ -207,13 +207,13 @@ En este punto vi que el juego tampoco me motivaba tanto y rápidamente lo abando
 
 ## Mini Jam 83
 
-De esta jam tengo muy poco del que hablar, ya que la empecé y la abandoné a una velocidad récord, básicamente empecé a hacer este juego que para resumirlo de alguna forma: DOOM y ZX Spectrum tienen un hijo y este hijo tiene espadas y dados.
+De esta jam tengo muy poco del que hablar, ya que la empecé y la abandoné a una velocidad récord. Básicamente, para resumir este juego: DOOM y ZX Spectrum tienen un hijo y este hijo tiene espadas y dados.
 
 Los ítems de este juego iban a ser randomizados con un dado que podías llevar en cualquier momento, si querías la espada, el dado tenía que darte una espada y así con todas las armas.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="doom_like" %}
 
-Pero aquí tuve un golpe de conciencia y lo abandoné porque tenía otro proyecto donde le debía estar dedicando este tiempo, así que lo abandoné para volver a ello.
+Pero aquí tuve un golpe de conciencia, tenía otro proyecto donde le debía estar dedicando este tiempo. Así que abandoné el juego para volver a ello.
 
 Otra jam anecdótica más.
 
@@ -224,7 +224,7 @@ A principios de septiembre de 2021 se me ocurrió intentar trastear con la Wii, 
 ![wii_game_1](/assets/img/personal/una-paseada-por-el-fracaso/wii_game_1.jpg){: .center}
 _Primera prueba de build funcionando en dolphin_
 
-![wii_game_2](/assets/img/personal/una-paseada-por-el-fracaso/wii_game_2.jpg){: .center w="200"}
+![wii_game_2](/assets/img/personal/una-paseada-por-el-fracaso/wii_game_2.jpg){: .center w="300"}
 _Primera prueba funcionando en una vWii (Wii U)_
 
 Y luego de esto me puse a hacer un juego de encontrar al malo y dispararlo, igual que lo que intenté hacer en la Mega Drive.
@@ -235,11 +235,11 @@ Pero después de esto lo abandoné por qué lo veía sin ningún tipo de futuro 
 
 ## Miner Mole
 
-En el bachillerato de Cataluña hay un trabajo que se llama *treball de recerca* dónde hay que hacer una investigación sobre el tema que te apetezca, en mi caso decidí desarrollar un juego para la Sega Mega Drive usando [SGDK](https://github.com/Stephane-D/SGDK){:target="_blank"}.
+En el bachillerato de Cataluña hay un proyecto que se llama *treball de recerca* dónde hay que hacer una investigación sobre el tema que te apetezca (y cuenta nota). En mi caso decidí desarrollar un juego para la Sega Mega Drive usando [SGDK](https://github.com/Stephane-D/SGDK){:target="_blank"}.
 
-Pues todo empieza cuando un buen día, mientras estaba comiendo en casa de los abuelos, vi que había una caja con la imagen del Sonic clásico, cuándo les pregunté que era eso me respondieron que era una consola, como si todo el mundo lo supiera y la iban a tirar porque nadie la usaba. Obviamente, no tenía ni idea que me habían estado escondiendo una consola y me apoderé de ella, entonces de aquí surgió la idea de trastear con ella (Y dedicarle unas horas al Sonic The Hedgehog y al Streets of Rage).
+Pues todo empieza cuando un buen día, mientras estaba comiendo en casa de los abuelos, vi que había una caja con la imagen del Sonic clásico, cuando les pregunté que era eso me respondieron que era una consola, como si todo el mundo lo supiera y la iban a tirar porque nadie la usaba. Obviamente, no tenía ni idea que me habían estado escondiendo una consola y me apoderé de ella, entonces de aquí surgió la idea de trastear con ella (Y dedicarle unas horas al Sonic The Hedgehog y al Streets of Rage).
 
-Como poco antes de empezar con esto había estado jugando al Shovel Knight (juegazo por cierto), no me lie demasiado y cogí *prestada* la mecánica principal del juego. Así es como nació este pequeño proyecto que duraría meses.
+Como poco antes de empezar con esto, había estado jugando al Shovel Knight (juegazo por cierto), no me lie demasiado y cogí *prestada* la mecánica principal del juego. Así es como nació este pequeño proyecto que duraría meses.
 
 {% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_1" %}
 
@@ -273,18 +273,18 @@ Hasta que le añadí los enemigos y a partir de entonces el desarrollo empezó a
 
 Como curiosidad que se ve en este vídeo, la flechita de la izquierda es el consumo de CPU, cuanto más arriba, menos consumo y cuanto más abajo, más consumo.
 
-![character_1](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_1.jpg){: .center w="200" }
+![character_1](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_1.jpg){: .center w="300" }
 
 En algún punto del desarrollo, dibujé a este personaje de aquí, como no tenía del todo claro como iba a ser, dibujé a este personajillo encapuchado. Me salió algo curioso, pero no acababa de ser lo que buscaba para el juego.
 
-Más adelante decidí que iba a usar la mecánica del Shovel Knight y, por lo tanto, iba a ser una chica minera. Pero un buen día de julio hablando con mi primo, él me propuso por qué no hacía que el personaje fuese un topo.
+Más adelante, cuando ya estaba más que decidido que iba a usar la mecánica del Shovel Knight, decidí que la protagonista iba a ser una chica minera. Pero un buen día de julio hablando con mi primo, él me propuso por qué no hacía que el personaje fuese un topo.
 
-![character_2](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_2.jpg){: .center w="200"}
+![character_2](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_2.jpg){: .center w="300"}
 _Primer diseño del topo_
 
 Y unos días más tarde lo pulí un poco más para que se viera mejor de que iba a ir la cosa.
 
-![character_3](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_3.jpg){: .center w="200"}
+![character_3](/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_character_3.jpg){: .center w="300"}
 
 Después de esto, se lo mandé a un artista con el que había participado previamente a una jam para que me dibujase un spritesheet bien chulo.
 
@@ -310,7 +310,7 @@ Le estuve añadiendo nuevos niveles, donde intentaba en cada uno de ellos meterl
 
 Ya sea por bueno o por malo, a mí me gusta sacar las cosas con un lacito bien bonito y poder decir orgullosamente que yo he trabajado en eso, aunque a veces me he arrepentido de trabajar en algunos juegos (entonces los [escondo](https://itch.io/c/1557951/other-other-game-jams){:target="_blank"}).
 
-En este caso, le había dedicado un esfuerzo como el que nunca antes había hecho y no veía ninguna forma posible de lanzar este juego, que tenía la idea que fuera gratis, sin ese lacito tan bonito.
+En este caso, le había dedicado un esfuerzo como el que nunca antes había hecho y no veía ninguna forma posible de lanzar este juego (que tenía la idea que fuera gratis) sin ese lacito tan bonito.
 
 Es por eso que nunca lo llegué a lanzar, aunque tenga 4 niveles creados con sus enemigos y tal, no tiene ese lacito que hace que el juego esté cerrado, tal y como está ahora simplemente termina porque no hay más contenido.
 
@@ -322,9 +322,45 @@ Y esto fue lo que decidí con mi único espectadore, un conejo (enemigo natural 
 
 Pero luego ocurrieron un montón de cosas que me llevaron a lo que he contado al inicio de este extenso post, me empecé a sentir fatal con el abandono de proyectos y esta fue una de las cosas que más me dolió, ver que este conejo no se mueve.
 
+## Una consola no tan fantástica
+
+Las consolas fantásticas ([*fantasy consoles*](https://en.wikipedia.org/wiki/Fantasy_video_game_console)), son un tema que me fascina. Me encanta que existan sistemas como PICO-8 u [otros](https://github.com/paladin-t/fantasy), con unas limitaciones propias que simplemente existen porque a los desarrolladores les apetece.
+
+Toda la comunidad que las rodea me parece fascinante y, aunque nunca me he metido en ella, siempre ha sido un tema con el que he querido trastear. Pues un buen día me levanté inspirado por un maravilloso vídeo de [Ben Eater](https://youtu.be/l7rce6IQDWs), en este vídeo, él hablaba de como montar una tarjeta gráfica que funcionaba en unas breadboards.
+
+A mí me entraron muchísimas ganas de hacer una yo, diseñar una tarjeta gráfica ampliamente inspirada por su diseño. En esta modificación mía, le aumentaba un poco la resolución y hacía que fuera de 1-bit, reduciendo su tamaño de la memoria a solo 4 kB.
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_6.jpg){: .center w="300" }
+_La gráfica renderizando la RAM sin inicializar_
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_1.jpg){: .center }
+_Render de prueba en la tarjeta gráfica_
+
+Pero todo esto no se iba a quedar aquí, la idea era hacer un sistema modular, tipo el [RC2014](https://rc2014.co.uk/) y que cada módulo fuese testeable individualmente con un Arduino. Algo que sonaba espectacular en mi cabeza.
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_2.png){: .center }
+_Visualización 3D de la PCB diseñada de la tarjeta gráfica_
+
+Luego empecé a diseñar otras partes, la tarjeta de sonido, compuesta por 555 timers. Y la tarjeta de la CPU, usando el 65C02, aunque estuve dudando de si usar un procesador Z80.
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_3.png){: .center }
+_Diseño base de la tarjeta de sonido_
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_4.png){: .center }
+_Diseño base de la tarjeta de la CPU_
+
+La idea inicial de esto era poder montar un mini sistema modular en el que poder crear videojuegos muy simples que pudieran funcionar con tanta limitación, ampliamente basado en las consolas fantásticas, pero con el "giro" de que esto era real.
+
+El problema principal que tuve, era que cada prototipo en breadboard me costaba cerca de 50 €. No me podía permitir crear un sistema por el amor al arte y gastarme tanto dinero de por medio.
+
+![graphics_card](/assets/img/personal/una-paseada-por-el-fracaso/graphics_card_5.jpg){: .center w="300" }
+_Pantalla falsa de BASIC para probar el renderizado de carácteres_
+
+Así que, obviamente, todo esto tuvo que aparcarlo en algún sitio y cruzar dedos por un día poder seguir con ello. Pero ese día nunca ha llegado.
+
 ## Dibujando a compañeros
 
-Ya sé que parecía que con tan poco tiempo y con tanta experiencia abandonando proyectos, no me daría tiempo a empezar y abandonar otro proyecto, ¿no? Pues sorpresa, esto fue lo que hice en Navidad.
+Ya sé que parecía que desde la Indie Spain Jam, con tan poco tiempo de por medio y con tanta experiencia abandonando proyectos, no me daría tiempo a empezar y abandonar otro proyecto, ¿no? Pues sorpresa, esto fue lo que hice en Navidad.
 
 Esta pasada Navidad se me ocurrió montarme mi propia Secret Santa Jam para mí mismo, donde les hacía un regalo a par de amigos a los que quiero mucho. Se me ocurrió una idea bastante absurda, pero al final lo que importa de los regalos, al menos para mí, es que les saque una sonrisa.
 
@@ -344,7 +380,7 @@ Pero desgraciadamente llegó el punto donde lo tuve que abandonar porque se me e
 
 Un buen día, cuando *supuestamente* tenía 11 años, hice la conexión de que si los videojuegos los creaban personas, yo podría ser una de esas personas. Desde ese momento y con todos los altos y bajos por los que he pasado de por medio, no me arrepiento de nada de lo que he hecho.
 
-Todo lo que he creado y todo lo que he abandonado ha sido el combustible que me ha dado la capacidad de aprender todo lo que he aprendido y nunca dejaré de crear cosas, porque siempre habrá una oportunidad de fracasar y aprender de ello como si fuera la primera vez que lo hago.
+Todo lo que he creado y todo lo que he abandonado ha sido el combustible que me ha dado la capacidad de aprender todo lo que he aprendido y nunca dejaré de crear cosas. Porque siempre habrá una oportunidad de fracasar y aprender de ello como si fuera la primera vez que lo hago.
 
 Este “ejercicio” que he hecho de buscar todo aquello con lo que he “fracasado” en vez de hacerme sentir mal, como sería lo obvio por el nombre de la acción, me ha hecho sentir muy feliz en pensar lo bien que lo pasé en muchos de estos desarrollos. Aunque el hecho de abandonar un proyecto siempre sea algo difícil de celebrar, pensar que estos proyectos normalmente son donde más experimento y donde más aprendo, me anima a seguir con aquello que estoy haciendo y nunca olvidar aquello que he hecho.
 
