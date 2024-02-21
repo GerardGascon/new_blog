@@ -387,3 +387,4 @@ Este “ejercicio” que he hecho de buscar todo aquello con lo que he “fracas
 ![end](/assets/img/personal/una-paseada-por-el-fracaso/end.jpg){: .center }
 
 Con todo esto, animo a todo el mundo a intentar encontrar aquello con lo que ha fracasado y reírse de ello, porque sin esos proyectos, lo más seguro es que nadie estaría donde está. Así que con esto termino esta paseada y me vuelvo a mi cueva para seguir triunfando en el fracaso.
+
