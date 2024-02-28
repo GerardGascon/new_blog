@@ -2,7 +2,7 @@
 title: Una paseada por el fracaso
 date: "2024-02-21"
 image: /assets/img/covers/una-paseada-por-el-fracaso.png
-categories: [Blogging, Personal Notes]
+categories: [Personal, Projects]
 tags: [abandoned, projects]
 ---
 
