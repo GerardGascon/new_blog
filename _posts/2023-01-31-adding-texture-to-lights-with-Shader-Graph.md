@@ -2,7 +2,7 @@
 title: Adding texture to lights with Shader Graph
 date: "2023-01-31"
 image: /assets/img/covers/adding-texture-to-2d-lights.png
-categories: [Tutorials]
+categories: [Technical, Tutorials]
 tags: [unity, shaders]
 ---
 
