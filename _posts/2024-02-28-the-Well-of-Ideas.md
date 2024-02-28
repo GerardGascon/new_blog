@@ -4,7 +4,7 @@ date: "2024-02-28"
 image: /assets/img/covers/well-of-ideas.png
 categories: [Personal, Ideas]
 tags: [game ideas]
-published: true
+published: false
 ---
 
 There's a concept I like to call *experimental games*. These games are the ones that aren't meant to be published with the goal to become the next big hit, but rather they are a way to express the joy about making video games.
