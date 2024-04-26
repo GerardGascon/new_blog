@@ -3,7 +3,7 @@ title: Using Raw Images to create infinite backgrounds
 date: "2023-01-29"
 image: /assets/img/covers/raw-image-background.png
 categories: [Technical, Tutorials]
-tags: [unity, shaders]
+tags: [unity, shaders, special effects]
 ---
 
 Creating a game with a large background can cause some large messes like this one:

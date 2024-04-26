@@ -3,7 +3,7 @@ title: Sant Jordi Jam 2024 Post Mortem
 date: "2024-04-23"
 image: /assets/img/covers/roses.png
 categories: [Personal, Projects]
-tags: [game jams]
+tags: [game jams, unity, post mortem]
 ---
 
 During this past few days I’ve been working with a very tiny Game Jam entry, Roses, a game about making Catalan flourish.

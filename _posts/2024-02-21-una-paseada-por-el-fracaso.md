@@ -3,7 +3,7 @@ title: Una paseada por el fracaso
 date: "2024-02-21"
 image: /assets/img/covers/una-paseada-por-el-fracaso.png
 categories: [Personal, Projects]
-tags: [abandoned, projects]
+tags: [abandoned, game ideas, motivation, unity, mega drive, godot, homebrew development]
 ---
 
 Hace unos meses, estuve pasando por una etapa bastante mala donde mi estrés se fue por las nubes y mi moral por los suelos. Llevaba varias semanas soportando una alta carga de trabajo y llegó un punto donde no podía más con ello. De una forma u otra, mi cabeza me hizo recordar todas aquellas veces que he abandonado proyectos por el motivo que fuera y en definitiva acabé con la moral muy baja para seguir con los actuales.

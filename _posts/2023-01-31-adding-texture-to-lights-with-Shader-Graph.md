@@ -3,7 +3,7 @@ title: Adding texture to lights with Shader Graph
 date: "2023-01-31"
 image: /assets/img/covers/adding-texture-to-2d-lights.png
 categories: [Technical, Tutorials]
-tags: [unity, shaders]
+tags: [unity, shaders, special effects, urp]
 ---
 
 Today, I’ve been working to add a subtle texture to any 2D Light present in the scene. This could be accomplished in two completely different ways, one would be using 2D Sprite Lights, using one sprite for the light itself and another sprite right on top with a noise texture to create this effect. Although, using this kind of light can easily limit us in many ways and one of them being importing lots of different sprites, so I found a small trick to avoid doing that.
