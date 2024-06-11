@@ -3,7 +3,7 @@ title: Excluding variables from build
 date: "2024-06-11"
 image: /assets/img/covers/excluding-variables-from-build.png
 categories: [Technical, Notes]
-tags: [unity, tools]
+tags: [unity, tools, C#]
 ---
 
 Some times when we are working on a game we stumble upon the option to release a demo. Usually we don’t want to export all the game assets inside the demo build, but Unity doesn’t give you the option to exclude it depending on some Define Symbols and what decides if an asset is exported or not is if it is referenced in a scene.
