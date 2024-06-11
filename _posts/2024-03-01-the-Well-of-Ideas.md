@@ -3,7 +3,7 @@ title: The Well of Ideas
 date: "2024-03-01"
 image: /assets/img/covers/well-of-ideas.png
 categories: [Personal, Ideas]
-tags: [game ideas]
+tags: [game ideas, motivation]
 ---
 
 There's a concept I like to call *experimental games*. These games are the ones that aren't meant to be published with the goal to become the next big hit, but rather they are a way to express the joy about making video games.
