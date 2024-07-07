@@ -1,6 +1,6 @@
 ---
 title: The Art of Making Dumb Tools
-date: "2024-06-11"
+date: "2024-07-07"
 image: /assets/img/covers/the-art-of-making-dumb-tools.png
 categories: [Personal, Projects]
 tags: [dumb, tools, godot, C#]
