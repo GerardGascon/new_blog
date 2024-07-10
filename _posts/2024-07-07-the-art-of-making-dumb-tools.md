@@ -27,11 +27,11 @@ Some time ago, while I was searching for references for my Homebrew Development 
 
 This made me think about making a small program to use your Switch Joy-Con or Wiimote to pass the slides, and long story short, a couple of days later I had this working:
 
-{% include videos-width.html width="50%" folder="personal/the-art-of-making-dumb-tools" name="version1" %}
+{% include embed/video.html src='/assets/img/personal/the-art-of-making-dumb-tools/version1.mp4' %}
 
 So yeah, a Switch Slide Presenter, finally a dumb but useful way to present my slides without having to go from side to side of the stage (and without spending money buying a real slide presenter), but my dumb goal wasn't accomplished yet, I needed the Wiimote to work, and sure, fast forward a couple of days and here it was:
 
-{% include videos-width.html width="50%" folder="personal/the-art-of-making-dumb-tools" name="version2" %}
+{% include embed/video.html src='/assets/img/personal/the-art-of-making-dumb-tools/version2.mp4' %}
 
 This dumb tool is now available in my GitHub: <https://github.com/GerardGascon/Controller-Slide-Presenter> (only Windows and Linux support at the moment)
 
@@ -45,7 +45,7 @@ Let's fast forward a couple days until the last Barcelona Game Creators (a great
 
 I decided to only support Joy-Cons for this project as they where easier to hook, had a better gyro than the Wiimote and they where dumb enough, and after a couple of hours trying to comprehend how the hell Quaternions work, I ended up with a Wii pointer moving across my laptop screen.
 
-{% include videos-width.html width="50%" folder="personal/the-art-of-making-dumb-tools" name="version3" %}
+{% include embed/video.html src='/assets/img/personal/the-art-of-making-dumb-tools/version3.mp4' %}
 
 This is also available in my GitHub: <https://github.com/GerardGascon/Controller-Cursor> (only Windows support at the moment)
 

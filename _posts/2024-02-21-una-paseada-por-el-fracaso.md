@@ -20,7 +20,7 @@ Pues lo dicho, todo lo que hay en este post son aquellos juegos y proyectos que 
 
 Algunas veces, cuando me preguntan cuando empecé a usar Unity, les respondo que empecé alrededor de mis 11 o 12 años, más o menos entre el paso de primaria a secundaria. Si bien esto es 3 años antes de esta fecha del título, la verdad es que es una aproximación que hago, ya que nunca llegué a guardar ningún proyecto de los que hice, por lo que no sé cuando empecé con exactitud, pero sí que sé que un enero de 2019 estaba subiendo este vídeo.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="start" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/start.mp4' %}
 
 Hasta donde yo recuerdo, esto era más o menos una especie de Super Smash Bros, pero con bolas que se disparan. Pero del que sí que recuerdo seguro, es el porqué lo abandoné. El enemigo para moverse había que meterle una IA bastante compleja para ello, pero como alumno de 3º de ESO, esta tarea se me hizo imposible de hacer y por motivos más que obvios hubo que abandonarlo.
 
@@ -30,7 +30,7 @@ Poco tiempo después de abandonar el juego de las pelotas, participé a la [Wowi
 
 Todo esto, me llevó a hacer un plataformero 3D ampliamente inspirado por el Super Mario 3D Land, uno de los primeros videojuegos a los que jugué.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="first_platformer" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/first_platformer.mp4' %}
 
 En realidad, llegaron a haber más enemigos de los que se ven al video, que yo recuerde eran por lo menos un par de tipos de Bill Bala y puede que algún extra. Además, el personaje iba con un cuchillo porque todos los enemigos eran alimentos, como si estuviera en una cocina. Pero igual que el anterior, eventualmente se me empezó a hacer demasiado difícil trabajar en el juego y lo abandoné.
 
@@ -38,19 +38,19 @@ En realidad, llegaron a haber más enemigos de los que se ven al video, que yo r
 
 Al cabo de poco, me puse de nuevo al lío, esta vez con un bullet hell en 2D. Donde me centré bastante en el game feel y realmente esta vez sí que parecía que había acertado el scope del proyecto.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="bullet_hell_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/bullet_hell_1.mp4' %}
 
 De este juego me acuerdo de varias cosas graciosas, una de ellas es que no sabía como limitar la velocidad de disparos, por lo que se me ocurrió meter una cadencia suficientemente exagerada como para que al jugador le mereciera más la pena mantener pulsado que pulsar muchas veces. Aunque sí que es verdad que posteriormente lo trasladé a móvil y este ahí no podías pulsar individualmente cada disparo.
 
 Una cosa que aprendí aquí que realmente aprecio mucho de este desarrollo es el object pooling. Durante el desarrollo del juego me encontré que eventualmente acababas llegando a un punto donde el lag hacía imposible jugar, por lo que investigando por qué era me enteré de que era culpa de instanciar muchas cosas y que el object pooling era la solución. Gracias a esto ya empecé a salir cada vez más de mi zona de confort en busca de nuevas formas de programar las cosas y hacerlo mejor.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="bullet_hell_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/bullet_hell_2.mp4' %}
 
 Le mejoré bastante el apartado visual, mezclando muchos assets de la asset store y de opengameart, pero la verdad es que me lo trabajé mucho el cómo se tenía que ver.
 
 Desafortunadamente, poco a poco se me fue yendo el scope del juego y eventualmente la cantidad de código espagueti del juego me hizo imposible seguir trabajando en él.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="bullet_hell_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/bullet_hell_3.mp4' %}
 
 ## Plataformero en 2D
 
@@ -58,39 +58,39 @@ En pleno verano de 2020, después de todas las jams a las que participé durante
 
 Este experimento fue tal que así:
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_1.mp4' %}
 
 Realmente acabé muy sorprendido de como había quedado, así que decidí seguir con ello, metiéndole el máximo detalle posible al juego. Creía haber encontrado mi artista interior.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_2.mp4' %}
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_3.mp4' %}
 
 Aquí ya se empezaba a notar que el scope se me estaba yendo, solo por decidir meterle un ciclo día noche, pero me daba igual, el juego se veía bonito y no perdía las ganas de trabajar en él.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_4" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_4.mp4' %}
 
 Le hice este pueblo, donde no había ninguna persona, pero las animaciones del entorno le daba mucha vida a este.
 
 No guardo ningún clip de esto, pero la ropa que estaba colgada entre los edificios tenía incluso una animación donde la recogían.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_5" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_5.mp4' %}
 
 Y luego creé a mi primer personaje, Don Cartelón. Este personaje tuvo la primera versión de un sistema de diálogos que proyecto tras proyecto fui mejorando hasta llegar a la versión que estoy usando actualmente en Just in Crime.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_6" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_6.mp4' %}
 
 Y luego creé a Artacho, porque “era un armario con un mostacho”
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_7" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_7.mp4' %}
 
 Luego seguí con la mejora del sistema de diálogos, donde le añadí soporte a emociones.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_8" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_8.mp4' %}
 
 Y finalmente todo terminó con el añadido del personaje principal del juego.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="geometry_9" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/geometry_9.mp4' %}
 
 Desgraciadamente, cometí uno de los errores de los que más me arrepiento de mi camino como desarrollador, no proteger mi trabajo. Este juego es de mis proyectos personales más queridos hasta la fecha, no hice ninguna copia de seguridad durante el desarrollo.
 
@@ -102,7 +102,7 @@ Seguí guardando la carpeta del proyecto de todas formas, con la esperanza de qu
 
 Hacia finales de 2020 empecé a darle vueltas a la idea de hacer una versión de mi porfolio que fuera jugable, pillé algún que otro asset de internet y me puse con la idea.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="portfolio_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/portfolio_1.mp4' %}
 
 La idea no salía como yo me imaginaba en mi cabeza. Quería que fuese algo divertido, pero en vez de eso, era bastante aburrido sinceramente.
 
@@ -118,27 +118,27 @@ Por la Navidad de 2020, me apunté a la [Secret Santa Jam](https://itch.io/jam/s
 
 Pues mi scope para esta jam desde un buen inicio se fue más allá de las nubes y volví con un plataformero 3D con todo lo que había aprendido hasta el momento.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_1.mp4' %}
 
 Hasta aquí parece un juego bastante normal, pero luego hay la parte donde invertí tiempo sin mucho sentido.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_2.mp4' %}
 
 Estuve siendo inspirado por el Super Mario Odyssey y toda la expresividad que este juego le da al jugador con las habilidades de Mario.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_3.mp4' %}
 
 Y una vez con las mecánicas hechas, me puse a avanzar con las animaciones, las cuales le dieron mucha más vida.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_4" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_4.mp4' %}
 
 Y aún más mecánicas que le añadí, hasta tener el gameplay base completo.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_5" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_5.mp4' %}
 
 Finalmente, me puse con el diseño de niveles para el juego con un montón de assets de [Kenney](https://www.kenney.nl/){:target="_blank"}.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="platformer_6" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/platformer_6.mp4' %}
 
 Pero desgraciadamente el diseño de niveles es de mis puntos más débiles, siempre me quedo atascado cuando toca hacerlo. Así como con el arte y la música puedo llegar a hacer un apaño, el diseño de niveles me drena la energía de una forma espectacular.
 
@@ -150,15 +150,15 @@ Pero bueno, aprendí un montón de cosas nuevas. Algo que agradezco  mucho de lo
 
 Pasado el deadline de la jam, para animarme, me propuse hacer un juego pequeñito para mí mismo, igual que hice con la [Brackeys Jam](https://gerardgascon.com/jams/Chess-II-Counterattack){:target="_blank"}, la idea de este juego era volver a hacer todos los assets yo solo. Y conseguí un resultado bastante guay.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="abc_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/abc_1.mp4' %}
 
 Me lo planteé como si fuera una jam, y se supone que tenía que terminarlo para año nuevo, pero me volví a atascar en el diseño de niveles y lo abandoné. Un año más tarde lo intenté retomar, le hice un par de niveles nuevos y me volví a atascar.
 
 El año pasado finalmente me puse “en serio” y lo intenté terminar, le retoqué algunos niveles, le metí nuevas mecánicas y el juego se quedó tal que así.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="abc_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/abc_2.mp4' %}
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="abc_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/abc_3.mp4' %}
 
 Desgraciadamente, me vino un volumen bastante grande de tareas que hacer y tuve que abandonar de nuevo el proyecto, ojalá este año sea el año en el que finalmente lo termine. Realmente era muy simpático el juego…
 
@@ -168,22 +168,22 @@ El año 2021 fue marcado por la Mega Drive. Mientras estaba aprendiendo como pro
 
 Así que me puse a ello y empecé a hacer un roguelike tipo Binding of Isaac, pero con movimiento por cuadrícula.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/roguelike_1.mp4' %}
 
 Luego de esto me puse a hacer la generación de las salas, la cual sería bastante sencilla de hacer en un motor de videojuegos actual, pero la falta de experiencia trabajando con C, hizo que me liase.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/roguelike_2.mp4' %}
 
 Aunque en un principio pareciese funcionar, perdía mucho tiempo con movidas con las que nunca me había pegado y al final decidí abandonarlo, dejando el juego en este estado:
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/roguelike_3.mp4' %}
 
 ![roguelike](/assets/img/personal/una-paseada-por-el-fracaso/roguelike_4.png){: .center }
 _Elenco de enemigos que iban a estar presentes en el juego_
 
 Aun así, no todo estaba perdido. En un último esfuerzo para intentar salvar la jam y presentar algo, desarrollé este prototipo, donde había que disparar al personaje que el juego te dijera.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="roguelike_5" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/roguelike_5.mp4' %}
 
 Pero desgraciadamente no sirvió de nada, ya que se acabó el tiempo y todo mi trabajo se quedó en nada.
 
@@ -193,11 +193,11 @@ Al cabo de un tiempo, me apunté a otra jam, aquí tenías que hacer un bullet h
 
 La idea estaba graciosa, así que me puse a prototipar con ella.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="chaotic_shooter_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/chaotic_shooter_1.mp4' %}
 
 Pero un bullet hell es sinónimo de caos, así que le añadí un *poquito* de caos.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="chaotic_shooter_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/chaotic_shooter_2.mp4' %}
 
 Y finalmente el juego terminó viéndose así.
 
@@ -211,7 +211,7 @@ De esta jam tengo muy poco del que hablar, ya que la empecé y la abandoné a un
 
 Los ítems de este juego iban a ser randomizados con un dado que podías llevar en cualquier momento, si querías la espada, el dado tenía que darte una espada y así con todas las armas.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="doom_like" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/doom_like.mp4' %}
 
 Pero aquí tuve un golpe de conciencia, tenía otro proyecto donde le debía estar dedicando este tiempo. Así que abandoné el juego para volver a ello.
 
@@ -231,7 +231,7 @@ Y luego de esto me puse a hacer un juego de encontrar al malo y dispararlo, igua
 
 Pero después de esto lo abandoné por qué lo veía sin ningún tipo de futuro más allá de poder presumir de haberlo logrado, así que obviamente lo abandoné sin más.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="wii_game_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/wii_game_3.mp4' %}
 
 ## Miner Mole
 
@@ -241,33 +241,33 @@ Pues todo empieza cuando un buen día, mientras estaba comiendo en casa de los a
 
 Como poco antes de empezar con esto, había estado jugando al Shovel Knight (juegazo por cierto), no me lie demasiado y cogí *prestada* la mecánica principal del juego. Así es como nació este pequeño proyecto que duraría meses.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_1" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_1.mp4' %}
 
 Y aquí está uno de los primeros clips del juego, obviamente no tenía ni idea de lo que hacía y tuve que reiniciarlo porque estaba empezando la casa por el tejado y esto se iba a convertir en un lío enorme.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_2" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_2.mp4' %}
 
 Y aquí está el primer prototipo de verdad del juego, donde empecé a montar mi propio sistema de físicas desde cero.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_3" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_3.mp4' %}
 
 Y fue un trabajo de ensayo y error muy duro, ya que venir de Unity, donde lo tienes todo prácticamente montado, a no tener nada, hay muchísima diferencia.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_4" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_4.mp4' %}
 
 Y con ya varios meses a la espalda, aquí viene el primer gran paso, el momento donde doy por terminado las físicas y empiezo a programar una cosa distinta, el movimiento de la cámara.
 
 Por suerte SGDK tenía una librería implementada para eso, pero tardé semanas en darme cuenta de que existía.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_5" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_5.mp4' %}
 
 Y así llegó una cantidad enorme de pruebas de dibujado del nivel y volvía a estar medio atascado con ello.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_6" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_6.mp4' %}
 
 Por suerte, unos meses más tarde conseguí solucionar el problema y el juego hizo un salto técnico bastante elevado, aunque aparecieron nuevos problemas…
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_7" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_7.mp4' %}
 
 Hasta que le añadí los enemigos y a partir de entonces el desarrollo empezó a acelerar.
 
@@ -288,25 +288,25 @@ Y unos días más tarde lo pulí un poco más para que se viera mejor de que iba
 
 Después de esto, se lo mandé a un artista con el que había participado previamente a una jam para que me dibujase un spritesheet bien chulo.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_8" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_8.mp4' %}
 
 Y aquí el juego ya empezaba a tener su estructura montada, con la carga y descarga de los niveles (con memory leaks incluidos, claro).
 
 Fue más o menos por este momento que se abrió la convocatoria del [IndieDevDay](https://www.indiedevday.es/){:target="_blank"} 2021 y como todo desarrollador, decidí intentar preparar algo y mandar el juego, el problema es que casi todo lo que usaba eran prototipos y el personaje aún no estaba dibujado, por lo que obviamente rechazaron mi juego y no pude exponerlo. Pero bueno, el desarrollo siguió hacia adelante y a finales de agosto, principios de septiembre, tenía esto:
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_9" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_9.mp4' %}
 
 Aquí ya estaba el famoso topo, comisionado a [FJLink](https://twitter.com/pipasdefranilla){:target="_blank"}, ahora sí que ya molaba mucho el juego. Pero también fue por entonces que volvieron las clases, tuve que empezar la redacción del trabajo y el desarrollo empezó a ralentizarse.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_10" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_10.mp4' %}
 
 Pero eso no quita que el juego fuese avanzando pasito a pasito.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_11" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_11.mp4' %}
 
 Le estuve añadiendo nuevos niveles, donde intentaba en cada uno de ellos meterle un efecto distinto en el scroll, que reflejase las capacidades de la consola.
 
-{% include videos.html folder="personal/una-paseada-por-el-fracaso" name="miner_mole_12" %}
+{% include embed/video.html src='/assets/img/personal/una-paseada-por-el-fracaso/miner_mole_12.mp4' %}
 
 Ya sea por bueno o por malo, a mí me gusta sacar las cosas con un lacito bien bonito y poder decir orgullosamente que yo he trabajado en eso, aunque a veces me he arrepentido de trabajar en algunos juegos (entonces los [escondo](https://itch.io/c/1557951/other-other-game-jams){:target="_blank"}).
 
