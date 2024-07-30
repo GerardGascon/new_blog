@@ -1,6 +1,5 @@
 ---
 title: Sant Jordi Jam 2024 Post Mortem
-date: "2024-04-23"
 image: /assets/img/covers/roses.png
 categories: [Personal, Projects]
 tags: [game jams, unity, post mortem]

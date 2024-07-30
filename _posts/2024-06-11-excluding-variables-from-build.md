@@ -1,6 +1,5 @@
 ---
 title: Excluding variables from build
-date: "2024-06-11"
 image: /assets/img/covers/excluding-variables-from-build.png
 categories: [Technical, Notes]
 tags: [unity, tools, C#]

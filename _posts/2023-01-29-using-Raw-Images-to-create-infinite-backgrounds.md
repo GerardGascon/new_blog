@@ -1,6 +1,5 @@
 ---
 title: Using Raw Images to create infinite backgrounds
-date: "2023-01-29"
 image: /assets/img/covers/raw-image-background.png
 categories: [Technical, Tutorials]
 tags: [unity, shaders, special effects]

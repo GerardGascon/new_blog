@@ -1,6 +1,5 @@
 ---
 title: Using the Unity’s Input System the way Input Manager worked
-date: "2024-03-27"
 image: /assets/img/covers/using the-unitys-input-system-the-way-input-manager-worked.png
 categories: [Technical, Notes]
 tags: [unity, input system]

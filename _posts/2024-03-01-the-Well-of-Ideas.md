@@ -1,6 +1,5 @@
 ---
 title: The Well of Ideas
-date: "2024-03-01"
 image: /assets/img/covers/well-of-ideas.png
 categories: [Personal, Ideas]
 tags: [game ideas, motivation]

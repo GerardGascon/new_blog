@@ -1,6 +1,5 @@
 ---
 title: Una paseada por el fracaso
-date: "2024-02-21"
 image: /assets/img/covers/una-paseada-por-el-fracaso.png
 categories: [Personal, Projects]
 tags: [abandoned, game ideas, motivation, unity, mega drive, godot, homebrew development]

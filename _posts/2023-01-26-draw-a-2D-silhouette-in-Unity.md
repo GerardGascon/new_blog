@@ -1,6 +1,5 @@
 ---
 title: Draw a 2D silhouette in Unity
-date: "2023-01-26"
 image: /assets/img/covers/draw-2d-silhouette.png
 categories: [Technical, Tutorials]
 tags: [unity, shaders, special effects]
